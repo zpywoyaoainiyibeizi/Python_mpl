@@ -2,8 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4318e06-dd86-484a-9a79-b6bd81df8847" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mpl.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/八宝米.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/冬瓜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/北瓜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/土豆.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大料.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大枣.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大白菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大葱.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/大蒜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/姜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小白菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小米.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/干辣椒.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/扒糕.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/拉皮.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/木耳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/油菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/洋葱.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/海带丝.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛奶.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛肉.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/猪肉.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/玉米碴.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/白糖.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/百合.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/盐.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/粉条.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/紫甘蓝.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/绿甘蓝.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/绿豆芽.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/羊肉.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/胡萝卜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/脊椎骨.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/腐竹.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/花椒.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/花生米.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/芹菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/苦菊.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/茄子.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/茴香.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菜花.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菠菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/蒜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/藕.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西红柿.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/西葫芦.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/豆腐.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/豆腐丝.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/豆芽.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/豆角.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/酱油.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/醋.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/金针菇.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/银耳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/长豆角.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/青椒.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面片.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/韭菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/香菜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/鸡块.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/鸡肉.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/鸡蛋.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/黄瓜.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/黄豆.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/龙须菜.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,30 +80,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$mpl.coverage" NAME="mpl Coverage Results" MODIFIED="1537256540206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$mpl.coverage" NAME="mpl Coverage Results" MODIFIED="1537258759745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="mpl.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mpl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="1296">
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="name.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/name.txt">
+      <file leaf-file-name="res.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="name_number_price.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/name_number_price.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1971">
+              <caret line="73" column="2" selection-start-line="73" selection-end-line="73" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chaifen_list</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,11 +219,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961783" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16719745" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18448023" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18448023" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -170,16 +246,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/name_number_price.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="73" column="2" selection-start-line="73" selection-end-line="73" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/name.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/name_number_price.txt">
+    <entry file="file://$PROJECT_DIR$/res.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mpl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="1296">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
         </state>
       </provider>
     </entry>
