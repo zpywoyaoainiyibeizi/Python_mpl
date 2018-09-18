@@ -3,13 +3,13 @@ name_list=[]
 res_list=[]
 chaifen_list=[]
 def file_read():
-    with open('quchong.txt','r',encoding='utf-8') as f:
+    with open('name.txt','r',encoding='utf-8') as f:
         for line in f:
             real_line=line.strip()
             name_list.append(real_line)
 
         for name in name_list:
-            with open('junshu.txt', 'r', encoding='utf-8') as file:
+            with open('name_number_price.txt', 'r', encoding='utf-8') as file:
                 with open(name + '.txt', 'w', encoding='utf-8') as write_file:
                     for line in file:
                         real_line = line.strip()
