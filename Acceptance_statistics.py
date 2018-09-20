@@ -13,8 +13,6 @@ def To_txt():
             for line in qingxi:
                 print (line)
                 row = line.split('\t')
-                index0 = row[0]
-                index1 = row[1]
                 index2 = row[2]
                 index3 = row[3]
                 index4 = row[4]
