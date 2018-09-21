@@ -62,11 +62,8 @@ def file_read():
            for line in read_file:
                real_line = line.strip()
                row = real_line.split('\t')
-               index0 = row[0]
                index1 = float (row[1])
-               index2 = float (row[2])
                index3 = float (row[3])
-
                shuliang_float=shuliang_float+index1
                zongjia_float=zongjia_float+index3
         junjia=zongjia_float/shuliang_float

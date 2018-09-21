@@ -23,4 +23,5 @@ def To_txt():
                     write_line=index2+'\t'+index3+'\t'+index4+'\t'+index5
                     write_file.write(write_line)
 
+
 To_txt()
